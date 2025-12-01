@@ -1,5 +1,5 @@
 
-// To run code open Cmd in folder, type g++ brute_hull.cpp, run executable.
+// To run code open Cmd in folder, type g++ brute_hull.cpp, run executable with filename containing points.
 
 //#include <SFML/Graphics.hpp>
 #include <vector>
