@@ -1,0 +1,13 @@
+Hull computation time: 0.0002856 seconds
+Operations: 552
+Hull points:
+100,0
+50,0
+0,0
+0,150
+50,350
+200,450
+250,450
+400,300
+400,0
+250,0
