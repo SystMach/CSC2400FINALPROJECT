@@ -1,0 +1,23 @@
+18 point hull size. 
+The Algorithm made 2513753 operations.
+The size of the array was 131072. 
+Hull computation time: 1.34074 seconds
+The points in the convex hull are: 
+(0 88.2)
+(0.1 13)
+(0.3 0)
+(485.9 0)
+(499.7 0.2)
+(500 32.4)
+(500 497.6)
+(499.9 498)
+(499.3 498.4)
+(494 499.4)
+(491.3 499.9)
+(484.7 500)
+(3.3 500)
+(2.2 499.9)
+(1.7 499.7)
+(0.9 499)
+(0.2 495.2)
+(0 490.6)
